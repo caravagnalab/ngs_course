@@ -5,7 +5,7 @@ Repository for the material of the first edition of the course "Hands-on Introdu
 
 **Organisers:** Stefano Cozzini, [LADE](https://github.com/RitAreaSciencePark)-AREA Science Park & Giulio Caravagna, [CDS Lab](https://github.com/caravagnalab)-UniTS
 
-**Lecturers:** Lucrezia Valeriani<sup>1,2</sup>, Giorgia Gandolfi<sup>2,3</sup>
+**Lecturers:** [Lucrezia Valeriani](https://github.com/valerianilucrezia)<sup>1,2</sup>, [Giorgia Gandolfi](https://github.com/giorgiagandolfi)<sup>2,3</sup>
 
 <sup>1</sup>AREA Science Park, <sup>2</sup>University of Trieste,<sup>3</sup>IRCCS Ospedale San Raffaele
 
