@@ -1,11 +1,18 @@
 # Hands-on Introduction to NGS Data Analysis
-Repository for the material of the course "Hands-on Introduction to NGS Data Analysis"
+Repository for the material of the first edition of the course "Hands-on Introduction to NGS Data Analysis".
 
-10-12 November 2026
+10-12 November 2026 at AREA Science Park
+
+**Organisers:** Stefano Cozzini, [LADE](https://github.com/RitAreaSciencePark)-AREA Science Park & Giulio Caravagna, [CDS Lab](https://github.com/caravagnalab)-UniTS
+
+**Lecturers:** Lucrezia Valeriani<sup>1,2</sup>, Giorgia Gandolfi<sup>2,3</sup>
+
+<sup>1</sup>AREA Science Park, <sup>2</sup>University of Trieste,<sup>3</sup>IRCCS Ospedale San Raffaele
+
 
 ## Materials 
-- Slides
-- Hands-on HTML
+- [Slides](slides/)
+- [Hand-on session](html/)
 
 ## References
 | Tool | Paper | GitHub | Link |
